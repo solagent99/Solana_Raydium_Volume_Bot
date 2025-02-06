@@ -3,18 +3,18 @@
 
 This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the Raydium platform.
 
-https://x.com/dev_takhi77/status/1841157402475053090
+https://www.youtube.com/watch?v=ybjON_voQ9s&ab_channel=LeoBrandt
 
 You can try version1 with this telegram bot
 
-https://t.me/@massvol_bot
+https://t.me/shinnyleo0912
 
 This is the video for the users who don't know well about programming to facilitate the running the CLI bots.
 I hope this is very helpful for those people.
 
 ## Contact Info
 
-Telegram: @Takhi77
+Telegram: @shinnyleo0912
 
 You can always feel free to find me here for my help on other projects.
 
@@ -28,7 +28,7 @@ You can always feel free to find me here for my help on other projects.
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/Takhi77/Solana-raydium-volume-bot.git
+git clone https://github.com/solagent99/Solana_Raydium_Volume_Bot.git
 cd Solana-raydium-volume-bot
 ```
 2. Install dependencies
@@ -48,7 +48,7 @@ npm run start
 # Version 2 is developed and it is private repository.
 ### What is the main difference between the former volume booster and the updated one?
 
-https://x.com/dev_takhi77/status/1831053270737121302
+https://www.youtube.com/watch?v=ybjON_voQ9s&ab_channel=LeoBrandt
 You can see the transactions and bot running in this video.
 I hope it will be helpful for you.
 
